@@ -1,0 +1,9 @@
+surname: Ivanov passport: 123456798 age: 22
+surname: Petrov passport: 987456321 age: 33
+surname: Elfimov passport: 65231798 age: 32
+surname: Andreev passport: 546321798 age: 11
+surname: Geo passport: 145236987 age: 55
+surname: Valentinov passport: 321456987 age: 44
+surname: Borodin passport: 741258963 age: 25
+surname: Kobolev passport: 325689714 age: 21
+surname: Nikiforov passport: 412589637 age: 14

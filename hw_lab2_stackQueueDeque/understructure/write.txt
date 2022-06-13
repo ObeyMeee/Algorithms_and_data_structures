@@ -1,0 +1,6 @@
+Result stack contains:
+3.2
+12.2
+0.5
+4.3
+-20.5
